@@ -1,7 +1,7 @@
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
 
-
+labeledTrainData.tsv
 UCI_HAR_Dataset
 
 gov_data_api_key.txt
