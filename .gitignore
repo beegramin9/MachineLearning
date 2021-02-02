@@ -6,6 +6,9 @@ UCI_HAR_Dataset
 
 gov_data_api_key.txt
 
+keys/
+voice/
+
 kakaomapkey.txt
 googlemapskey.txt
 settings.json
